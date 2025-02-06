@@ -14,3 +14,9 @@ Feel free to reach out if you’ve got any helpful tips or if you're also on the
 - 😄 Pronouns: him/his
 - ⚡ Fun facts: I am
 -->
+
+  <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="["](https://www.flickr.com/photos/202221535@N02/54310646229/in/dateposted-public/)>
+ <source media="(prefers-color-scheme: light)" srcset="["](https://www.flickr.com/photos/202221535@N02/54310646229/in/dateposted-public/)>
+ <img alt="the head of the zebra" src="["](https://www.flickr.com/photos/202221535@N02/54310646229/in/dateposted-public/)>
+</picture>
